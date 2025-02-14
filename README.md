@@ -14,6 +14,22 @@
 - 한명의 발표가 끝나고 면접 느낌으로 스터디원과 Q&A형식으로 질의 응답
 - 정리한 내용을 매주 Github ReadMe 에 업로드
     - 이에 대한 내용은 본인 블로그에 다 가져가셔도 됩니다. (타 스터디원 내용까지도 허용)
+ 
+## 
+```kotlin
+import kotlin.random.Random
+
+fun main() {
+    val names = listOf("최혜림", "김수현", "윤성준", "편민우", "허지명")
+    val numbers = (1..5).shuffled().toMutableList() // 1~5를 랜덤하게 섞음
+    
+    val assignments = names.mapIndexed { index, name -> name to numbers[index] } // 이름과 숫자를 매칭
+    
+    assignments.forEach { (name, number) ->
+        println("\${name} -> \${number}")
+    }
+}
+```
 
 ## 예상 진행도
 ### **📌 1주차: 컴퓨터 구조 기초**
