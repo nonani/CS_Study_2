@@ -3,9 +3,9 @@
 - Deep Dive하게 할 것이냐, 기본에 충실할 것이냐는 스터디원과 함께 만들어가는 것이라고 생각합니다.
 
 ## 멤버
-| <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/sssssungjun"><img src="https://avatars.githubusercontent.com/u/108875242?v=4" width="90" height="90"></a> | <a href="https://github.com/MinwooPyeon"><img src="https://avatars.githubusercontent.com/u/153968515?v=4" width="90" height="90"></a> | <a href="https://github.com/hyeriimm"><img src="https://avatars.githubusercontent.com/u/94698088?v=4" width="90" height="90"></a> | <a href="https://github.com/rhflffkaksl"><img src="https://avatars.githubusercontent.com/u/195999066?v=4" width="90" height="90"></a> |
-| ----- | ----- | ----- | ----- | ----- |
-| [허지명](https://github.com/HeoJamong) | [윤성준](https://github.com/sssssungjun) | [편민우](https://github.com/MinwooPyeon) | [최혜림](https://github.com/hyeriimm) | [김수현](https://github.com/rhflffkaksl) |
+| <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/sssssungjun"><img src="https://avatars.githubusercontent.com/u/108875242?v=4" width="90" height="90"></a> | <a href="https://github.com/MinwooPyeon"><img src="https://avatars.githubusercontent.com/u/153968515?v=4" width="90" height="90"></a> | <a href="https://github.com/hyeriimm"><img src="https://avatars.githubusercontent.com/u/94698088?v=4" width="90" height="90"></a> | <a href="https://github.com/rhflffkaksl"><img src="https://avatars.githubusercontent.com/u/195999066?v=4" width="90" height="90"></a> | <a href="https://github.com/rhflffkaksl"><img src="https://avatars.githubusercontent.com/u/30969164?v=4" width="90" height="90"></a> |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| [허지명](https://github.com/HeoJamong) | [윤성준](https://github.com/sssssungjun) | [편민우](https://github.com/MinwooPyeon) | [최혜림](https://github.com/hyeriimm) | [김수현](https://github.com/rhflffkaksl) | [최진우](https://github.com/nonani) |
 
 ## 진행 방식
 - 주 1회 2시간
