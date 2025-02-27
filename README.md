@@ -43,12 +43,11 @@ fun main() {
 6. 프런트맨 : 허지명 
 
 ### **📌 2주차: 운영체제 개념 ①**
-1. 운영체제란? : 최혜림
-2. 프로세스 vs 스레드 : 허지명
-3. 프로세스 주소 공간 : 최진우
-4. 인터럽트(Interrupt) : 김수현
-5. 시스템 콜(System Call) : 편민우
-6. 프런트맨 : 윤성준
+1. 운영체제란?
+2. 프로세스 vs 스레드 
+3. 프로세스 주소 공간 
+4. 인터럽트(Interrupt) 
+5. 시스템 콜(System Call) 
 
 ### **📌 3주차: 운영체제 개념 ②**
 1. PCB와 Context Switching
@@ -66,11 +65,12 @@ fun main() {
 
 ### **📌 5주차: 데이터베이스 기초**
 
-1. 키(Key) 정리
-2. SQL - JOIN
-3. SQL Injection
-4. SQL vs NoSQL
-5. 정규화(Normalization)
+1. 키(Key) 정리 : 최혜림
+2. SQL - JOIN : 허지명
+3. SQL Injection : 최진우
+4. SQL vs NoSQL : 김수현
+5. 정규화(Normalization) : 편민우
+6. 프런트맨 : 윤성준
 
 ### **📌 6주차: 네트워크 기초**
 1. OSI 7 계층
