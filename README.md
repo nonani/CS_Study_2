@@ -51,11 +51,12 @@ fun main() {
 6. 프런트맨 : 최진우
 
 ### **📌 3주차: 운영체제 개념 ②**
-1. PCB와 Context Switching
-2. IPC(Inter Process Communication)
-3. CPU 스케줄링
-4. 데드락(DeadLock)
-5. Race Condition
+1. PCB와 Context Switching : 윤성준
+2. IPC(Inter Process Communication) : 김수현
+3. CPU 스케줄링 : 허지명
+4. 데드락(DeadLock) : 최혜림
+5. Race Condition : 최진우
+6. 프런트맨 : 편민우
 
 ### **📌 4주차: 운영체제 메모리 관리**
 1. 세마포어(Semaphore) & 뮤텍스(Mutex)
