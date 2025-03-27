@@ -76,11 +76,12 @@ fun main() {
 6. 프런트맨 : 윤성준
 
 ### **📌 6주차: 네트워크 기초**
-1. OSI 7 계층
-2. TCP 3 way handshake & 4 way handshake
-3. TCP/IP 흐름제어 & 혼잡제어
-4. UDP
-5. 대칭키 & 공개키
+1. OSI 7 계층 : 편민우
+2. TCP 3 way handshake & 4 way handshake : 최진우
+3. TCP/IP 흐름제어 & 혼잡제어 : 김수현
+4. UDP : 윤성준
+5. 대칭키 & 공개키 : 허지명
+6. 프런트맨 : 최혜림
 
 ### **📌 7주차: 네트워크 심화 & 보안**
 1. HTTP & HTTPS
