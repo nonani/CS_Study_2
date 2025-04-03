@@ -84,11 +84,12 @@ fun main() {
 6. 프런트맨 : 최혜림
 
 ### **📌 7주차: 네트워크 심화 & 보안**
-1. HTTP & HTTPS
-2. TLS/SSL handshake
-3. 로드 밸런싱(Load Balancing)
-4. Blocking,Non-blocking & Synchronous,Asynchronous
-5. Blocking & Non-Blocking I/O
+1. HTTP & HTTPS : 윤성준 
+2. TLS/SSL handshake : 최혜림
+3. 로드 밸런싱(Load Balancing) : 허지명
+4. Blocking,Non-blocking & Synchronous,Asynchronous : 김수현
+5. RSA : 최진우
+6. 프런트맨 : 편민우
 
 ### **📌 8주차: 소프트웨어 공학 개념**
 1. 클린코드 & 리팩토링
