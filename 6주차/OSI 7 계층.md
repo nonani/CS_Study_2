@@ -27,6 +27,7 @@ OSI 7계층은 네트워크에서 통신이 일어나는 과정을 7단계로 �
 ### 🔹 각각의 계층에 대해서
 
 ![OSI 7계층](https://user-images.githubusercontent.com/24274424/86514723-94b77900-be4e-11ea-8456-ad39b27d9ba9.png)
+![image](https://github.com/user-attachments/assets/a18ea2c0-db70-4c88-a2d0-f4b588c32c55)
 
 > OSI 7계층
 
